@@ -4,7 +4,9 @@ _[TamperMonkey](https://www.tampermonkey.net/) scripts to aid with surveys_
 
 Welcome to beer-money-tools, a collection of scripts designed to help you in your quest to make money online. They don't circumvent or automate anything that's intended to be human-led, such as filling in surveys. They just help with decision-making when selecting the surveys themselves. Let's start with Qmee.
 
-# Qmee
+## Qmee Pro
+
+Earn money by completing surveys and cashback offers:
 
 http://qm.ee/TX7YYE5VGMRQ2
 
@@ -23,3 +25,32 @@ NOTE: This does not fill out surveys for you. All it does is the same calculatio
 The idea behind this one was to try and reduce the number of times you click on a high-paying survey and are screened out because their quota is already full. I have no actual idea how successful this is, but I figure it can't hurt my changes.
 
 If I am fed up with the interruptions of using the auto-click version I just turn it off and turn Qmee Pro back on. That way when I have some spare minutes I can go over and fill out anything that seems worth my time.
+
+## Swagbucks Pro
+
+Earn money completing surveys, cashback offers, completing other tasks such as paid search or watching videos:
+
+https://www.swagbucks.com/profile/quacksecho
+
+After you sign up, you should also add the SwagButton to your browser:
+
+https://www.swagbucks.com/lp-savings-button?cmp=695&cxid=swagbuttonref&rb=50889691&extRefCmp=1&extRb=50889691
+
+Finally, install the TamperMonkey script:
+
+https://github.com/quacksecho/beer-money-tools/blob/main/Swagbucks%20Survey%20Pro.user.js
+
+This is a little less polished and more manual than Qmee Pro. The Swagbucks Survey Pro script calculates the SB per minute for each survey and sorts the list so the highest rate surveys appear at the top. This will help you make decisions about how to maximise your return on your time investment.
+
+## Non-scripted ways to make money
+
+If you've made it this far, you may be looking for other ways to make money online. Here are some other links which might help you out.
+
+### Online share trading sign-up offers
+
+Trading212: http://www.trading212.com/invite/FMJXbLtB (Use referral code FMJXbLtB to get a free share if you sign up and invest £1, often worth around £10 but potentially more)
+FreeTrade: https://freetrade.io/freeshare/?code=KJWIQOBHIS&sender=Tqsqd0Jh (Use referral link, when you make a small investment you will receive a free share, usually around £10 but potentially up to £200)
+
+### Mobile surveys
+
+BigToken: https://invite.bigtoken.com/6mDZX5YkXgStSvW49
