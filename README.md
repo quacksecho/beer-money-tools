@@ -1,6 +1,6 @@
 # beer-money-tools
 
-_TamperMonkey[https://www.tampermonkey.net/] scripts to aid with surveys_
+_[TamperMonkey](https://www.tampermonkey.net/) scripts to aid with surveys_
 
 Welcome to beer-money-tools, a collection of scripts designed to help you in your quest to make money online. They don't circumvent or automate anything that's intended to be human-led, such as filling in surveys. They just help with decision-making when selecting the surveys themselves. Let's start with Qmee.
 
