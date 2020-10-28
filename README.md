@@ -48,12 +48,15 @@ If you've made it this far, you may be looking for other ways to make money onli
 
 ### Online share trading sign-up offers
 
+Use these referrals to get a free share, which you can then sell or keep. Trading212 offers fractional share trading if that interests you, so you can try your hand at investing with very low amounts of cash to see how it works.
+
 * Trading212: http://www.trading212.com/invite/FMJXbLtB (Use referral code FMJXbLtB to get a free share if you sign up and invest £1, often worth around £10 but potentially more)
 * FreeTrade: https://freetrade.io/freeshare/?code=KJWIQOBHIS&sender=Tqsqd0Jh (Use referral link, when you make a small investment you will receive a free share, usually around £10 but potentially up to £200)
 
 ### Mobile surveys
 
-Most of these are fast, low paying surveys which build up over time.
+Most of these are fast, low paying surveys which build up over time. I've tried to arrange them in my preferred order, which is lowest payout threshold to highest.
 
-* BigToken: https://invite.bigtoken.com/6mDZX5YkXgStSvW49
-* Zap Surveys: https://bdr3.app.link/ZK18chuQWab
+* 1Q: http://1Q.com/r5rm2n (single-question surveys that pay out 25 cents instantly to your PayPal account)
+* BigToken: https://invite.bigtoken.com/6mDZX5YkXgStSvW49 (Take payout once per quarter to your PayPal account)
+* Zap Surveys: https://bdr3.app.link/ZK18chuQWab (Cash out when you reach $25, PayPal, Amazon and others)
