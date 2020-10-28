@@ -48,9 +48,9 @@ If you've made it this far, you may be looking for other ways to make money onli
 
 ### Online share trading sign-up offers
 
-Trading212: http://www.trading212.com/invite/FMJXbLtB (Use referral code FMJXbLtB to get a free share if you sign up and invest £1, often worth around £10 but potentially more)
-FreeTrade: https://freetrade.io/freeshare/?code=KJWIQOBHIS&sender=Tqsqd0Jh (Use referral link, when you make a small investment you will receive a free share, usually around £10 but potentially up to £200)
+* Trading212: http://www.trading212.com/invite/FMJXbLtB (Use referral code FMJXbLtB to get a free share if you sign up and invest £1, often worth around £10 but potentially more)
+* FreeTrade: https://freetrade.io/freeshare/?code=KJWIQOBHIS&sender=Tqsqd0Jh (Use referral link, when you make a small investment you will receive a free share, usually around £10 but potentially up to £200)
 
 ### Mobile surveys
 
-BigToken: https://invite.bigtoken.com/6mDZX5YkXgStSvW49
+* BigToken: https://invite.bigtoken.com/6mDZX5YkXgStSvW49
