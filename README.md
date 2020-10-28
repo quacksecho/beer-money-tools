@@ -53,4 +53,7 @@ If you've made it this far, you may be looking for other ways to make money onli
 
 ### Mobile surveys
 
+Most of these are fast, low paying surveys which build up over time.
+
 * BigToken: https://invite.bigtoken.com/6mDZX5YkXgStSvW49
+* Zap Surveys: https://bdr3.app.link/ZK18chuQWab
