@@ -74,6 +74,13 @@ Most of these are fast, low paying surveys which build up over time. I've tried 
 * BigToken: https://invite.bigtoken.com/6mDZX5YkXgStSvW49 (Take payout once per quarter to your PayPal account)
 * Zap Surveys: https://bdr3.app.link/ZK18chuQWab (Cash out when you reach $25, PayPal, Amazon and others)
 
+### Cashback
+
+These can be great if you were going to shop / switch a service anyway. Compare the offer on each to make sure you earn the most cashback.
+
+Quidco: https://www.quidco.com/raf/606554/ (£5 extra when you earn your first £5 if you use my referral)
+TopCashback: https://www.topcashback.co.uk/ref/quacksecho (Earn by completing signups and product trials)
+
 ### My Blog
 
 I try to keep this page updated, but I also post from time to time on my blog, especially if I'm out and about at the time. Head over to https://quacksecho.net/blog and see if there's anything I've missed, or you've missed. I like to talk in more detail there.
