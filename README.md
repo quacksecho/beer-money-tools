@@ -46,6 +46,12 @@ This is a little less polished and more manual than Qmee Pro. The Swagbucks Surv
 
 If you've made it this far, you may be looking for other ways to make money online. Here are some other links which might help you out.
 
+### Passive income
+
+Make money with minimal effort. These options just require you to install an app on your phone, or a browser plugin, or a desktop program, and you earn a small amount of cash from each as long as they stay running.
+
+* HoneyGain: https://r.honeygain.me/HONEY5B6 (Share your bandwidth for cash)
+
 ### Online share trading sign-up offers
 
 Use these referrals to get a free share, which you can then sell or keep. Trading212 offers fractional share trading if that interests you, so you can try your hand at investing with very low amounts of cash to see how it works.
