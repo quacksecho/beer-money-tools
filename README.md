@@ -64,5 +64,6 @@ Use these referrals to get a free share, which you can then sell or keep. Tradin
 Most of these are fast, low paying surveys which build up over time. I've tried to arrange them in my preferred order, which is lowest payout threshold to highest.
 
 * 1Q: http://1Q.com/r5rm2n (single-question surveys that pay out 25 cents instantly to your PayPal account)
+* PollPay: Find the app on your app store and use referral code LWL3M7FVFF to start with 19 cents. Payout by gift card starting at £5, for PayPal you need at least £10.
 * BigToken: https://invite.bigtoken.com/6mDZX5YkXgStSvW49 (Take payout once per quarter to your PayPal account)
 * Zap Surveys: https://bdr3.app.link/ZK18chuQWab (Cash out when you reach $25, PayPal, Amazon and others)
