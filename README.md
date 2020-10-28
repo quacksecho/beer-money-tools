@@ -52,6 +52,11 @@ Make money with minimal effort. These options just require you to install an app
 
 * HoneyGain: https://r.honeygain.me/HONEY5B6 (Share your bandwidth for cash)
 
+### Cryptocurrency Trading sign-up offers
+
+Coinbase: https://www.coinbase.com/join/callan_vh (Use my referral and trade £77.10 to receive £7.71 in Bitcoin BTC - also opportunities to earn and learn other cryptocurrencies)
+Coinlist: https://coinlist.co/clt?referral_code=W3MYYC (Use my referral and trade over $100 in a single transaction to earn $10 in Bitcoin BTC)
+
 ### Online share trading sign-up offers
 
 Use these referrals to get a free share, which you can then sell or keep. Trading212 offers fractional share trading if that interests you, so you can try your hand at investing with very low amounts of cash to see how it works.
