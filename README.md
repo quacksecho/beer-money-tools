@@ -56,6 +56,7 @@ Make money with minimal effort. These options just require you to install an app
 
 Coinbase: https://www.coinbase.com/join/callan_vh (Use my referral and trade £77.10 to receive £7.71 in Bitcoin BTC - also opportunities to earn and learn other cryptocurrencies)
 Coinlist: https://coinlist.co/clt?referral_code=W3MYYC (Use my referral and trade over $100 in a single transaction to earn $10 in Bitcoin BTC)
+Luno: https://www.luno.com/invite/MPW8UA (Deposit £100 and buy £100 worth of crypto, receive £10 bonus with my referral)
 
 ### Online share trading sign-up offers
 
