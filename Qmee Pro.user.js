@@ -4,7 +4,7 @@
 // @version      4.0
 // @description  Be notified about Qmee surveys you feel are worth your time
 // @author       quacksecho
-// @match        https://www.qmee.com/en-gb/surveys*
+// @match        https://www.qmee.com/*surveys*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=qmee.com
 // @grant        GM.notification
 // @require      https://code.jquery.com/jquery-3.7.1.min.js
