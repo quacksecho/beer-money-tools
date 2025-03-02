@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         Qmee Pro
 // @namespace    http://tampermonkey.net/
-// @version      3.0
+// @version      4.0
 // @description  Be notified about Qmee surveys you feel are worth your time
 // @author       quacksecho
-// @match        https://www.qmee.com/users
-// @match        https://www.qmee.com/users/surveys
+// @match        https://www.qmee.com/en-gb/surveys
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=qmee.com
 // @grant        GM.notification
-// @require      https://code.jquery.com/jquery-3.4.1.min.js
+// @require      https://code.jquery.com/jquery-3.7.1.min.js
 // ==/UserScript==
 
 (function() {
@@ -25,20 +25,28 @@
 
     function check_and_tag() {
 
-        var selector = "a.survey:not(.locked)";
+        var selector = "section > ul > li > a";
+
+        var to_sort = [];
 
         $(selector).each(function() {
+
             var href = this.href;
-            var value_text = $(this).find(".reward")[0].innerText.replace(/^.*\n/,"");
+            var value_text = $(this).find("div aside p span").text().replace(/^.*\n/,"");
             var pence = value_text.replace(/[£p\.]/g, "");
 
-            var duration = $(this).find(".duration").children().first();
+            console.log(pence);
 
-            var minutes = duration.text().replace(/\smin[s.]/, "");
+            var duration = $(this).find("div aside p")[1];
+
+            console.log(duration);
+
+            var minutes = $(duration).text().replace(/\smin[s.]/, "");
+
+            console.log(minutes);
 
             var pm = pence / minutes;
             var ph = pm * 60 / 100;
-
 
             // If the pence per minute is above our chosen threshold value
             if (pm > THRESHOLD) {
@@ -64,7 +72,13 @@
                 }
             }
 
+            to_sort.push([minutes, $(this).parent()]);
+
         });
+
+        var ul = to_sort[0][1].parent();
+        to_sort.sort((a, b) => a[0] - b[0]);
+        to_sort.forEach((item) => ul.append(item[1]));
 
         // Set time interval for next check
         window.setTimeout(check_and_tag, INTERVAL * 1000);
@@ -73,7 +87,7 @@
     // Set time for initial run
     window.setTimeout(check_and_tag, WAIT * 1000);
 
-    // Reload page after 60 seconds to get new surveys
+    // Reload page after RELOAD seconds to get new surveys
     window.setTimeout(function() {
         location.reload();
     }, RELOAD * 1000);
